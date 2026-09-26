@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# Deepali Shinde— Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for Deepali Shinde.
 
 How to use
 
